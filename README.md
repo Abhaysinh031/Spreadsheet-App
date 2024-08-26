@@ -36,8 +36,8 @@ npm run dev
 yarn dev
 
 ```
-### Usage
-# Features
+# Usage
+## Features
 1.Cell Formatting
 
 - Text Alignment: Select cells and adjust text alignment (left, center, right) from the formatting panel.
@@ -54,7 +54,7 @@ yarn dev
 
 6. Persistent Data Storage: Data changes are saved to localStorage to maintain state across page reloads.
 
-# How to Use
+## How to Use
 1.Applying Cell Formatting
 
 - Select one or more cells.
